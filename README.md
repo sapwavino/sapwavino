@@ -11,10 +11,3 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sapwavino&theme=transparent&background=000000&stars=false)](https://git.io/streak-stats)
 <br/>
-
-
-```
-"Build what you wish existed"
-                      - Beff Jezos (circa 3024)
-```
-
