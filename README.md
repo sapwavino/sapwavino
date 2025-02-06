@@ -6,5 +6,5 @@
 
 ### :fire: Stats & Streak:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sapwavino&theme=transparent&background=000000&stars=false)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sapwavino&theme=transparent&background=010101&stars=false)](https://git.io/streak-stats)
 <br/>
